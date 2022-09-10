@@ -17,4 +17,4 @@ from .db import greet as db
     )
 )
 async def welcome(e):
-    print(e)
+    pass
